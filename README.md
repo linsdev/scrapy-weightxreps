@@ -15,8 +15,10 @@ scrapy crawl weightxreps
 Date format is YYYY-MM-DD
 
 By defaults:
+```
 start=[date when user joined (user registration date)]
 end='today' by default
+```
 
 
 Example:
